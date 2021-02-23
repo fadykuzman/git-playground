@@ -1,6 +1,6 @@
 # git-playground
 Testing some git features
 
-Some other line
+other line
 
 This will advance the master branch
